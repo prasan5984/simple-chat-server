@@ -1,0 +1,1 @@
+java -classpath jar\ChatServer.jar server.ChatServer
