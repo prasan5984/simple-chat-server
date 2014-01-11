@@ -1,0 +1,1 @@
+java -classpath jar\ChatClient.jar client.ChatClient
